@@ -1,4 +1,4 @@
-<h1 align="center">Hallo und a warm welcome to my personal page on Github, my name is Bjoern Peters</h1>
+<h1>Hallo und a warm welcome to my personal page on Github, my name is Bjoern Peters</h1>
 <h3>I am a Microsoft MVP for Data Platform since 2017, Senior SQL Server DBA, Senior Consultant for Azure @KramerundCrew with a lot of Microsoft Certifications, <br> 
 Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h3>I'm very curios and love to try out new cloud technology. Actually, I'm mostly interested in Azure Arc for Kubernetes (Kubernetes in general) and Azure Arc Data Services.</h5>
