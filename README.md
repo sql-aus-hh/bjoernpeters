@@ -18,7 +18,7 @@ Tech Mentor, Public Speaker, Author, Blogger</h3>
 
 :mailbox_closed: If you have any question, just wanna connect and network with me, I'd love to connect with you on Linkedin
 
-<a href="https://www.linkedin.com/in/bjoern-peters/"><img style="background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2021/07/LI-Logo.png" width="240" /></a>
+<a href="https://www.linkedin.com/in/bjoern-peters/"><img style="background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2021/07/LI-Logo.png" width="180" /></a>
 
 <hr>
 <br>
