@@ -1,5 +1,5 @@
 <h1>Hallo und a warm welcome to my personal page on Github, my name is Bjoern Peters</h1>
-<h3>I am a Microsoft MVP for Data Platform since 2017, Senior SQL Server DBA, Senior Consultant for Azure @KramerundCrew with a lot of Microsoft Certifications, <br> 
+<h3>I am an  ex-Microsoft MVP for Data Platform since 2017, Senior SQL Server DBA, Senior Consultant for Azure @KramerundCrew with a lot of Microsoft Certifications, <br> 
 Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h3>I'm very curios and love to try out new cloud technology. Actually, I'm mostly interested in Azure Arc for Kubernetes (Kubernetes in general) and Azure Arc Data Services.</h5>
 <br>
@@ -8,9 +8,7 @@ Tech Mentor, Public Speaker, Author, Blogger</h3>
 
 :memo: I try to write posts for my **Blog** regularly: https://www.sql-aus-hamburg.de
 
-:trophy: And I am a **Microsoft MVP** in the Data Platform category.
-
-<a href="https://mvp.microsoft.com/en-us/PublicProfile/5002576"><img src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" width="180" /></a>
+:trophy: And I am a ex-**Microsoft MVP** in the Data Platform category.
 
 :open_book: I’m currently learning new stuff about #AI on Azure and #DataEngineering
 
@@ -38,7 +36,7 @@ Tech Mentor, Public Speaker, Author, Blogger</h3>
     <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2021/07/azure-solutions-architect-expert-600x600-1.png" alt="Bjoern Peters - Certification - AZ300/AZ301 - Azure Solution Architect" /></a>
     <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2021/07/azure-security-engineer-associate600x600-1.png" alt="Bjoern Peters - Certification - AZ500 - Azure Security Engineer" /></a>
     <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2022/12/AI102.png" alt="Bjoern Peters - Certification - AI102500 - Azure AI Engineer" /></a>
-    <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2022/12/MCT-2022-2023.png" alt="Bjoern Peters - Certification - MCT - Microsoft Certified Trainer 2020-2023" /></a>
+    <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2022/12/MCT-2022-2023.png" alt="Bjoern Peters - Certification - MCT - Microsoft Certified Trainer 2020-2024" /></a>
     <a href="https://www.sql-aus-hamburg.de" target="blank"><img align="center" width="180" src="https://www.sql-aus-hamburg.de/wp-content/uploads/2022/12/cka_from_cncfsite__281_29.png" alt="Bjoern Peters - Certification - CKA - Certified Kubernetes Administrator" /></a>
 </p>
 
